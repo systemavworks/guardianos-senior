@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuardianOS Senior</string>
+    <string name="panic_button">EMERGENCIA</string>
+    <string name="call_direct">LLAMAR</string>
+    <string name="auto_answer">CONTESTAR AUTO</string>
+    <string name="photos">FOTOS</string>
+    <string name="weather">EL TIEMPO</string>
+    <string name="memories">RECUERDOS</string>
+    <string name="whatsapp_safe">MENSAJES</string>
+    <string name="fall_detected">¿Caída detectada? Cancela en 10s o se avisará a emergencias.</string>
+    <string name="emergency_activated">Alerta enviada a contactos de confianza</string>
+</resources>
