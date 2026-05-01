@@ -191,5 +191,5 @@ limitations under the License.
 ---
 
 📩 **Contacto & Soporte**: `info@guardianos.es` | 🌐 `https://guardianos.es`  
-🛡️ *Por una tecnología que protege, no que explota.*
+🛡️ *Por una tecnología que protege, no que explota.* Version v1.0.0 . Mayo de 2026
 ```
